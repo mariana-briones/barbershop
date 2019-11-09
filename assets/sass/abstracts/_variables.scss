@@ -1,0 +1,45 @@
+// Esquema de colores
+
+// Primer esquema de color (Blanco)
+$white-first: #fff;
+$white-second: #E6E7E7;
+$white-third: #D1D1D1;
+
+// Segundo esquema de color (Rojo)
+$red-first: #E56353;
+$red-second: #D76C69;
+$red-third: #ECBCBA;
+
+// Tercer esquema de color (Negro)
+$black-first: #121619;
+$black-second: #222323;
+$black-third: #6C6E70;
+
+// Tipografia
+$playfair: 'Playfair Display', serif;
+$roboto: 'Roboto', sans-serif;
+
+// Peso de fuentes
+$light-font: 300;
+$regular-font: 400;
+$bold-font: 900;
+
+// Tamaños de fuente
+$small: 12px;
+$medium: 16px;
+$large: 18px;
+$x-large: 30px;
+$xx-large: 70px;
+
+// Screen-size
+$x-small-screen: 320px;
+$small-screen: 576px;
+$medium-screen: 768px;
+$large-screen: 992px;
+$x-large-screen: 1200px;
+
+// Paddings
+$xx-padding: 12.5rem;
+$x-padding: 4.375rem;
+$large-padding: 3.125rem;
+$medium-padding: 1.25rem;

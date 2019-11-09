@@ -1,0 +1,10 @@
+.navbar {
+    background-color: $black-first !important;
+    color: $white-first;
+    a {
+        color: $white-first;
+    }
+    a:hover {
+        color: $red-first;
+    }
+}

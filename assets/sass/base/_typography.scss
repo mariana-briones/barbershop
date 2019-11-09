@@ -1,0 +1,39 @@
+// Family font
+h3, h4, h5, h6 {
+  font-family: $roboto;
+}
+
+h1, h2 {
+  font-family: $playfair;
+}
+
+// Size
+h1 {
+  font-size: $xx-large;
+}
+
+h2 {
+  font-size: $x-large;
+}
+
+h3 {
+  font-size: $large;
+}
+
+h4 {
+  font-size: $medium;
+}
+
+h5 {
+  font-size: $small;
+}
+
+// Weight
+h1, h2 {
+  font-weight: $bold-font;
+  font-style: italic;
+}
+
+h3 {
+  font-weight: $light-font;
+}
